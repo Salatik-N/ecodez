@@ -1,0 +1,15 @@
+{
+  "name": "ecodez",
+  "version": "1.0.0",
+  "description": "",
+  "main": "front-page.php",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "terser": "^5.15.0",
+    "waypoints": "^4.0.1"
+  }
+}

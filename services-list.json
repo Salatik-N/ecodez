@@ -1,0 +1,203 @@
+[{      
+    "category": "roomPriceBlock",
+    "services":[
+    {
+        "servicesName": "Борьба с насекомыми",
+        "imgSrc": "/wp-content/uploads/2022/05/Rectangle-3-1.jpg",
+        "price_1": "69,90",
+        "price_2": "89,90",
+        "price_3": "99,90",
+        "price_4": "119,90",
+        "price_5": "119,90"
+    },
+    {
+        "servicesName": "Борьба с грызунами",
+        "imgSrc": "/wp-content/uploads/2022/05/Rectangle-3-2.jpg",
+        "price_1": "29,90",
+        "price_2": "34,90",
+        "price_3": "49,90",
+        "price_4": "54,90",
+        "price_5": "договорная"
+    },
+    {
+        "servicesName": "Дезинфекция от вирусов и бактерий",
+        "imgSrc": "/wp-content/uploads/2022/05/Rectangle-3.jpg",
+        "price_1": "69,90",
+        "price_2": "89,90",
+        "price_3": "99,90",
+        "price_4": "119,90",
+        "price_5": "119,90"
+    },
+    {
+        "servicesName": "Устранение запахов",
+        "imgSrc": "/wp-content/uploads/2022/05/Photo.jpg",
+        "price_1": "64,90",
+        "price_2": "84,90",
+        "price_3": "94,90",
+        "price_4": "119,90",
+        "price_5": "119,90"
+    },
+    {
+        "servicesName": "Фумигация",
+        "imgSrc": "/wp-content/uploads/2022/05/fumigation.jpg",
+        "price_1": "399,90",
+        "price_2": "399,90",
+        "price_3": "399,90",
+        "price_4": "399,90",
+        "price_5": "399,90"
+    },
+    {
+        "servicesName": "Защитная обработка дома от древесных вредителей",
+        "imgSrc": "/wp-content/uploads/2022/05/ot-dereva.jpg",
+        "price_1": "399,90",
+        "price_2": "399,90",
+        "price_3": "399,90",
+        "price_4": "399,90",
+        "price_5": "399,90"
+    }
+    ]
+},{
+    "category": "sitePriceBlock",
+    "services":[
+{
+    "servicesName": "Ларвицидная обработка (мухи, комары и тд.)",
+    "imgSrc": "/wp-content/uploads/2022/06/1589480581_01.jpg",
+    "price_1": "109,00",
+    "price_2": "129,00",
+    "price_3": "209,90",
+    "price_4": "275,90",
+    "price_5": "399,90"
+},
+{
+    "servicesName": "Борьба с кротами",
+    "imgSrc": "/wp-content/uploads/2022/05/krot.jpg",
+    "price_1": "119,00",
+    "price_2": "139,00",
+    "price_3": "229,90",
+    "price_4": "285,90",
+    "price_5": "399,90"
+},
+{
+    "servicesName": "Борьба с сорняками",
+    "imgSrc": "/wp-content/uploads/2022/05/ot-wornakow.jpg",
+    "price_1": "99,00",
+    "price_2": "119,00",
+    "price_3": "199,90",
+    "price_4": "265,90",
+    "price_5": "365,90"
+},
+{
+    "servicesName": "Обработки участка от клещей и других насекомых",
+    "imgSrc": "/wp-content/uploads/2022/05/obrabotka-ot-kleshey_2.jpg",
+    "price_1": "99,00",
+    "price_2": "119,00",
+    "price_3": "189,00",
+    "price_4": "245,00",
+    "price_5": "345,00"
+}
+]
+},{
+    "category": "jurPriceBlock",
+    "services":[
+    {
+    "servicesName": "Истребительная дезинсекция",
+    "imgSrc": "/wp-content/uploads/2022/05/photo.jpeg",
+    "price_1": "0,85",
+    "price_2": "0,75",
+    "price_3": "0,60",
+    "price_4": "0,45",
+    "price_5": "0,41"
+},
+{
+    "servicesName": "Дезинфекция",
+    "imgSrc": "/wp-content/uploads/2022/05/bedbugs-2.jpg",
+    "price_1": "0,79",
+    "price_2": "0,69",
+    "price_3": "0,60",
+    "price_4": "0,55",
+    "price_5": "0,45"
+},
+{
+    "servicesName": "Дератизация",
+    "imgSrc": "/wp-content/uploads/2022/05/DISINFECTION-OF-ROOMS.jpg",
+    "price_1": "0,30",
+    "price_2": "0,29",
+    "price_3": "0,25",
+    "price_4": "0,20",
+    "price_5": "0,19"
+},
+{
+    "servicesName": "Профилактическая дезинсекция",
+    "imgSrc": "/wp-content/uploads/2022/05/c425-i01.jpg",
+    "price_1": "0,45",
+    "price_2": "0,39",
+    "price_3": "0,35",
+    "price_4": "0,29",
+    "price_5": "0,25"
+},
+{
+    "servicesName": "Пест контроль / H.A.C.C.P",
+    "imgSrc": "/wp-content/uploads/2022/05/Pest-Control.webp",
+    "price_1": "0,50",
+    "price_2": "0,45",
+    "price_3": "0,39",
+    "price_4": "0,39",
+    "price_5": "0,29"
+},
+{
+    "servicesName": "Профилактическая дератизация",
+    "imgSrc": "/wp-content/uploads/2022/07/Deratizaciya-zhilykh-pomeshheniy2.webp",
+    "price_1": "0,25",
+    "price_2": "0,23",
+    "price_3": "0,21",
+    "price_4": "0,19",
+    "price_5": "0,17"
+},
+{
+    "servicesName": "Акарицидная обработка",
+    "imgSrc": "/wp-content/uploads/2022/07/fum10-min_0x0_c48.jpg",
+    "price_1": "1,00",
+    "price_2": "0,85",
+    "price_3": "0,79",
+    "price_4": "0,67",
+    "price_5": "0,61"
+},
+{
+    "servicesName": "Лаврицидная обработка",
+    "imgSrc": "/wp-content/uploads/2022/06/1589480581_01.jpg",
+    "price_1": "1,20",
+    "price_2": "0,95",
+    "price_3": "0,89",
+    "price_4": "0,82",
+    "price_5": "0,70"
+},
+{
+    "servicesName": "Фумигация сырья",
+    "imgSrc": "/wp-content/uploads/2022/05/fumigation.jpg",
+    "price_1": "399,00",
+    "price_2": "399,00",
+    "price_3": "399,00",
+    "price_4": "399,00",
+    "price_5": "договорная"
+},
+{
+    "servicesName": "Аэрация",
+    "imgSrc": "/wp-content/uploads/2022/06/core-aeration-senske.jpg",
+    "price_1": "22,00",
+    "price_2": "20,00",
+    "price_3": "17,00",
+    "price_4": "15,00",
+    "price_5": "договорная"
+},
+{
+    "servicesName": "Скарификация",
+    "imgSrc": "/wp-content/uploads/2022/06/Rectangle-4-3.jpg",
+    "price_1": "22,00",
+    "price_2": "20,00",
+    "price_3": "17,00",
+    "price_4": "15,00",
+    "price_5": "договорная"
+}
+]
+}
+]

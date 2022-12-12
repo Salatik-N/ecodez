@@ -1,0 +1,141 @@
+*{
+    --overall-indent: 120px;
+}
+.footer *{
+    color: #fff;
+}
+.footer{
+    background: var(--main-color-black);
+}
+.footer .site-logo{
+    line-height: 0px;
+    height: 88px;
+    width: 205px;
+    display: flex;
+    align-items: center;
+}
+.site-footer-block,
+.block-copyright{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 var(--overall-indent);
+}
+.site-footer-block{
+    max-width: 1440px;
+    margin: auto;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    gap: 16px;
+}
+.block-footer p{
+    width: 50%;
+}
+.site-footer{
+    border-bottom: 1px solid #B3B3B3;
+}
+.block-copyright{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    max-width: 1440px;
+    margin: auto;
+}
+.block-copyright .accent-logo-orange{
+    font-weight: 600;
+    color: #FAD100;
+}
+.block-footer{
+    display: flex;
+    gap: 16px;
+    align-items: center;
+}
+.messenger-app-icons{
+    display: flex;
+    gap: 8px;
+    flex-direction: column;
+    width: max-content;
+    flex-wrap: wrap;
+}
+.messenger-app-icons a{
+    display: flex;
+    align-items: center;
+}
+.messenger-app-icons a img{
+    width: 24px;
+    height: 24px;
+    margin-right: 4px;
+}
+.block-copyright{
+    align-items: center;
+}
+.control-footer{
+    padding: 0 var(--overall-indent);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 16px;
+    max-width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.go-top-button,
+.close-footer{
+    cursor: pointer;
+}
+.go-top-button{
+    align-items: center;
+    gap: 16px;
+    display: none;
+}
+.block-footer .footer-small-logo{
+    display: none;
+    height: 25px;
+    width: 60px;
+}
+.footer-icon{
+    width: 20px;
+    height: 20px;
+    margin-right: 6px;
+    fill: #fff;
+}
+.block-footer .messenger-app-icons a:hover .footer-icon{
+    fill: var(--main-color-accent);
+}
+@media only screen and (max-width: 1000px){
+    .block-footer p{
+        width: 60%;
+    }
+}
+@media only screen and (max-width: 768px){
+    .site-footer-block{
+        padding-top: 16px;
+        padding-bottom: 13px;
+    }
+    .site-footer ul{
+        flex-flow: wrap;
+    }
+    .block-copyright{
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 8px;
+    }
+    .footer .site-logo {
+        height: 48px;
+        width: 111px;
+    }
+    .site-footer-block{
+        flex-direction: column;
+        gap: 32px;
+    }
+    .messenger-app-icons{
+        flex-direction: row;
+    }
+    .block-footer p{
+        width: 100%;
+    }
+    .footer .site-logo{
+        display: none;
+    }
+    .block-footer .footer-small-logo{
+        display: block;
+    }
+}
